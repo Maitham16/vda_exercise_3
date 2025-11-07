@@ -9,7 +9,7 @@
 - US personal income by state (2006-2019): https://teaching.vda.univie.ac.at/vis/25w/data/usa_personal-income-by-state_2006-2019.csv
 - US states GeoJSON: https://teaching.vda.univie.ac.at/vis/25w/data/us-states-geo.json
 
-# Changes made in the following files of the boilerplate code provided for the assignment (https://github.com/asilcetin/vis-vue-d3):
+## Changes made in the following files of the boilerplate code provided for the assignment (https://github.com/asilcetin/vis-vue-d3):
 
 - App.vue
 	- I changed from a two-row layout with the slider in a narrow left column to a centered, full-width slider area.
