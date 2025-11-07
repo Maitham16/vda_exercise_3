@@ -87,7 +87,7 @@ npm run dev
 ## Online Access: https://wwwlab.cs.univie.ac.at/~alrubayem88/VIS25W/A3/
 
 ## Files:
-.
+```
 ├── index.html
 ├── jsconfig.json
 ├── LICENSE
@@ -115,5 +115,6 @@ npm run dev
 │       └── store.js
 ├── video.mp4
 └── vite.config.js
+```
 
 ## Github Repository: https://github.com/Maitham16/vda_exercise_3
