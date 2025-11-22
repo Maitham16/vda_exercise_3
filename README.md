@@ -117,4 +117,11 @@ npm run dev
 └── vite.config.js
 ```
 
+## list of editied files:
+- App.vue
+- store.js
+- YearSlider.vue
+- Scatterplot.vue
+- ChoroplethMap.vue
+
 ## Github Repository: https://github.com/Maitham16/vda_exercise_3
