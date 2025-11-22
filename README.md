@@ -75,6 +75,7 @@ cd vis-vue-d3
 ## Project setup
 Installs the dependencies for the project
 ```
+npm install vite@6 --save-dev
 npm install
 ```
 
